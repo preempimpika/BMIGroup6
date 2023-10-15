@@ -10,5 +10,10 @@
     <color name="level3">#FF4F4B</color>
     <color name="level2">#F79327</color>
     <color name="level1">#FFDB59</color>
+    <color name="normal">#D0F5BE</color>
+    <color name="fat">#FFFEC4</color>
+    <color name="thinlv1">#ECC9EE</color>
+    <color name="thinlv2">#C9A7EB</color>
+    <color name="thinlv3">#9384D1</color>
 
 </resources>

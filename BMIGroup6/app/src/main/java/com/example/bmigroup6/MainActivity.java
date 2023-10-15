@@ -47,14 +47,24 @@ public class MainActivity extends AppCompatActivity {
                 Resources resources =getResources();
                 if(bmicalculator<16){
                     rank_output.setText(rankArray[0]);
+                    rank_output.setTextColor(getResources().getColor(R.color.black));
+                    rank_output.setBackground(getResources().getDrawable(R.drawable.borderthinoutput3));
                 }else if(bmicalculator<17){
                     rank_output.setText(rankArray[1]);
+                    rank_output.setTextColor(getResources().getColor(R.color.black));
+                    rank_output.setBackground(getResources().getDrawable(R.drawable.borderthinoutput2));
                 }else if(bmicalculator<18.5){
                     rank_output.setText(rankArray[2]);
+                    rank_output.setTextColor(getResources().getColor(R.color.black));
+                    rank_output.setBackground(getResources().getDrawable(R.drawable.borderthinoutput1));
                 }else if(bmicalculator<25){
                     rank_output.setText(rankArray[3]);
+                    rank_output.setTextColor(getResources().getColor(R.color.black));
+                    rank_output.setBackground(getResources().getDrawable(R.drawable.bordernormal));
                 }else if(bmicalculator<30){
                     rank_output.setText(rankArray[4]);
+                    rank_output.setTextColor(getResources().getColor(R.color.black));
+                    rank_output.setBackground(getResources().getDrawable(R.drawable.borderfat));
                 }else if(bmicalculator<35){
                     rank_output.setText(rankArray[5]);
                     rank_output.setTextColor(getResources().getColor(R.color.black));

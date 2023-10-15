@@ -107,7 +107,7 @@
                 android:id="@+id/bmioutput"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="60dp"
+                android:layout_marginStart="70dp"
                 android:fontFamily="@font/kanit_light"
                 android:text="@string/bmioutput"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large" />
@@ -133,10 +133,10 @@
                 android:id="@+id/rankoutput"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="90dp"
+                android:layout_marginStart="50dp"
                 android:fontFamily="@font/kanit_light"
-                android:text="@string/rankoutput"
                 android:padding="20dp"
+                android:text="@string/rankoutput"
                 android:textAppearance="@style/TextAppearance.AppCompat.Large"
                 android:textStyle="bold"
                 tools:ignore="TextContrastCheck" />
