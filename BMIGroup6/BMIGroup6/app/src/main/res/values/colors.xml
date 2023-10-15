@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="flower">#FEBBCC</color>
+    <color name="bg">#FCE9F1</color>
+    <color name="btn">#FF3FA4</color>
+    <color name="barbie">#E0218A</color>
+    <color name="grey">#444444</color>
+    <color name="level3">#FF4F4B</color>
+    <color name="level2">#F79327</color>
+    <color name="level1">#FFDB59</color>
+
+</resources>
